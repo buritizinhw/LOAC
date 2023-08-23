@@ -1,6 +1,6 @@
 module semaforoP2(input logic [2:0] ABC,
                   output logic VMA,VDA,VMB,VDB,VMC,VDC);
-                  
+
     always_comb begin
         case(ABC) 
         3'b000: 
