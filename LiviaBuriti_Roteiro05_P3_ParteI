@@ -13,4 +13,3 @@ module semaforoSimples(input logic clk, reset,
     end
 
 endmodule
-
